@@ -40,9 +40,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "MySql.Data.EntityFramework": {
+            "MongoDB.Driver": {
               "target": "Package",
-              "version": "[8.0.31, )"
+              "version": "[2.18.0, )"
             }
           },
           "imports": [
