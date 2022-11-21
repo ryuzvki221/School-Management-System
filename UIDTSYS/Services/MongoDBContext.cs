@@ -23,5 +23,23 @@ namespace UIDTSYS.Services
                 return _database.GetCollection<Ufr>("ufrs");
             }
         }
+
+        // Get collection of departements
+        public IMongoCollection<Departement> Departements
+        {
+            get
+            {
+                return _database.GetCollection<Departement>("departements");
+            }
+        }
+
+        // Get collection of filieres
+        public IMongoCollection<Filiere> Filieres
+        {
+            get
+            {
+                return _database.GetCollection<Filiere>("filieres");
+            }
+        }
     }
 }

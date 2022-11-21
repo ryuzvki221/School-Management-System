@@ -15,6 +15,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Projects\dotnet\School-Management-System\UIDTSYS
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Departement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Departement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Departement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Departement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Departement/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Filiere/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWVyZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Filiere/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWVyZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Filiere/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWVyZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Filiere/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWVyZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Filiere/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWVyZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
