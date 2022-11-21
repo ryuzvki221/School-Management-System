@@ -1,10 +1,10 @@
-﻿using System.Text.Json.Serialization;
+using System.Text.Json.Serialization;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace UIDTSYS.Models
 {
-    public class Ufr
+    public class Departement
     {
 
         [BsonId]
@@ -13,8 +13,12 @@ namespace UIDTSYS.Models
         [BsonElement]
         public string Name { get; set; } = string.Empty;
 
-        [BsonElement("Departements")]
-        [JsonPropertyName("Departements")]
-        public List<string>? DepartementIds { get; set; }
+        [BsonElement("Ufr")]
+        [JsonPropertyName("Ufr")]
+        public string? UrfId { get; set; }
+
+        // [BsonElement("Filieres")]
+        // [JsonPropertyName("Filieres")]
+        // public List<string>? FiliereIds { get; set; }
     }
 }

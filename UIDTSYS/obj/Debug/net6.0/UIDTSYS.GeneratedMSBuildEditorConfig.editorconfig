@@ -8,57 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UIDTSYS
 build_property.RootNamespace = UIDTSYS
-build_property.ProjectDir = D:\Projects\dotnet\School-Management-System\UIDTSYS\
+build_property.ProjectDir = C:\Users\cheik\OneDrive\Bureau\projet\School-Management-System\UIDTSYS\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Projects\dotnet\School-Management-System\UIDTSYS
+build_property.MSBuildProjectDirectory = C:\Users\cheik\OneDrive\Bureau\projet\School-Management-System\UIDTSYS
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Home/Index.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Departement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Departement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Departement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Departement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Departement/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Home/Privacy.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Shared/Error.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Ufr/Create.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Ufr/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWZyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Ufr/Delete.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Ufr/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWZyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Ufr/Details.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Ufr/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWZyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Ufr/Edit.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Ufr/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWZyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Ufr/index.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Ufr/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWZyXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/_ViewImports.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/_ViewStart.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/dotnet/School-Management-System/UIDTSYS/Views/Shared/_Layout.cshtml]
+[C:/Users/cheik/OneDrive/Bureau/projet/School-Management-System/UIDTSYS/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jpb4qpg9kk
